@@ -1,4 +1,4 @@
-## Convert any binary file to hex coded file (C structure)**
+## Convert any binary file to hex coded file (C structure)
 
 **Bin2Hex** is a utility designed to convert any binary file into a hexadecimal representation formatted as a C structure. This application takes a binary file and outputs its content in a human-readable, structured format that can be easily integrated into C/C++ projects. The output includes the binary file's name, length, and the converted data as an array of unsigned characters. This tool is particularly useful for embedding binary data directly into source code, such as firmware, images, or configuration files.
 
